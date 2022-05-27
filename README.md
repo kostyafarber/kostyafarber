@@ -1,16 +1,18 @@
-### Hi there 👋
+<p align='center'>
+    <img width='' height='' src='images/airport.gif' style='border-radius: 15%'>
+</p>
+<br>
 
-<!--
-**kostyafarber/kostyafarber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+<a href="https://linkedin.com/in/kostyafarber">
+    <img align="" alt="Stefanie's LinkedIn" width="30px" src="https://simpleicons.vercel.app/linkedin/ffffff"/>&nbsp;&nbsp;
+</a>
+<img align="" alt="Stefanie's LinkedIn" width="30px" src='images/puzzle.png'>&nbsp;&nbsp;
+<img align="" alt="Stefanie's LinkedIn" width="30px" src="https://simpleicons.vercel.app/facebook/ffffff"/>
+</p>
+<br>
 
-Here are some ideas to get you started:
+## Hey there, my name is Kostya Farber 👻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love to code and am always looking to find myself at the intersection of &nbsp;🖼&nbsp; and&nbsp; 🧪
+
