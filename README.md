@@ -22,3 +22,18 @@ I love coding and am passionate about finding simple solutions to complex proble
 ![sql](https://img.shields.io/static/v1?&logo=pandas&message=pandas&label=&style=flat-sqaure&logoColor=fca311)
 ![git](https://img.shields.io/static/v1?&logo=git&message=git&label=&style=flat-sqaure&logoColor=fca311)
 ![aws](https://img.shields.io/static/v1?&logo=amazonaws&message=aws&label=&style=flat-sqaure&logoColor=fca311)
+    
+```
+                                                              _.-.
+                                                           ,'/ //\
+                                                          /// // /)
+                                                         /// // //|
+                                                        /// // ///
+                                                       /// // ///
+                                                      (`: // ///
+                                                       `;`: ///
+                                                       / /:`:/
+                                                      / /  `'
+                                                     / /
+                                                    (_/  
+```
