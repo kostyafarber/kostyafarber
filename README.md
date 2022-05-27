@@ -5,8 +5,11 @@
 
 <p align='center'>
 <a href="https://linkedin.com/in/kostyafarber">
-    <img align="" alt="Kostya's LinkedIn" width="30px" src="https://simpleicons.vercel.app/linkedin/ffffff"/>&nbsp;&nbsp;
-</a>
+    <img align="" alt="Kostya's LinkedIn" width="30px" src="https://simpleicons.vercel.app/linkedin/ffffff"/>
+<a/>&nbsp;&nbsp;
+    <img align="" alt="Kostya's LinkedIn" width="30px" src="https://simpleicons.vercel.app/medium/ffffff"/>&nbsp;&nbsp;
+    <img align="" alt="Kostya's LinkedIn" width="30px" src="https://simpleicons.vercel.app/spotify/ffffff"/>
+
 </p>
 <br>
 
