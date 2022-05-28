@@ -23,7 +23,7 @@ I love coding and am passionate about finding simple solutions to complex proble
 
 ![stack:](https://img.shields.io/static/v1?&message=stack:&label=&style=flat-sqaure&logoColor=fca311&color=black)
 ![python](https://img.shields.io/static/v1?&logo=python&message=python&label=&style=flat-sqaure&logoColor=fca311)
-![pandas](https://img.shields.io/static/v1?&logo=pandas&message=pandas&label=&style=flat-sqaure&logoColor=fca311)
+![pandas](https://img.shields.io/static/v1?&logo=microsoftsqlserver&message=sql&label=&style=flat-sqaure&logoColor=fca311)
 ![sql](https://img.shields.io/static/v1?&logo=pandas&message=pandas&label=&style=flat-sqaure&logoColor=fca311)
 ![git](https://img.shields.io/static/v1?&logo=git&message=git&label=&style=flat-sqaure&logoColor=fca311)
 ![aws](https://img.shields.io/static/v1?&logo=amazonaws&message=aws&label=&style=flat-sqaure&logoColor=fca311)
