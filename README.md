@@ -28,17 +28,5 @@ I love coding and am passionate about finding simple solutions to complex proble
 ![git](https://img.shields.io/static/v1?&logo=git&message=git&label=&style=flat-sqaure&logoColor=fca311)
 ![aws](https://img.shields.io/static/v1?&logo=amazonaws&message=aws&label=&style=flat-sqaure&logoColor=fca311)
     
-```
-                                                          _.-.
-                                                       ,'/ //\
-                                                      /// // /)
-                                                     /// // //|
-                                                    /// // ///
-                                                   /// // ///
-                                                  (`: // ///
-                                                   `;`: ///
-                                                   / /:`:/
-                                                  / /  `'
-                                                 / /
-                                                (_/  
-```
+
+  <img align="" alt="Kostya's Spotify" width="" src="images/ice-cream.svg"/>
