@@ -27,6 +27,25 @@ I love coding and am passionate about finding simple solutions to complex proble
 ![sql](https://img.shields.io/static/v1?&logo=pandas&message=pandas&label=&style=flat-sqaure&logoColor=fca311)
 ![git](https://img.shields.io/static/v1?&logo=git&message=git&label=&style=flat-sqaure&logoColor=fca311)
 ![aws](https://img.shields.io/static/v1?&logo=amazonaws&message=aws&label=&style=flat-sqaure&logoColor=fca311)
-    
 
-  <img align="" alt="Kostya's Spotify" width="" src="images/ice-cream.svg"/>
+## 🎧 🎹
+<p align='center'>
+    <img src='https://spotify-github-profile.vercel.app/api/view?uid=kostya_farber&cover_image=true&theme=compact'> 
+</p>
+
+## Contact Me!
+   
+```yml
+                                    website: https://kostyafarber.github.io/
+                                    email: kostya.farber@gmail.com 
+    
+                                            (\                          
+                                            \'\                         
+                                             \'\     __________      
+                                             / '|   ()_________)        
+                                             \ '/    \ ~~~~~~~~ \
+                                               \       \ ~~~~~~   \
+                                               ==).      \__________\
+                                              (__)       ()__________)                                        
+                                                        
+```
