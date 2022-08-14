@@ -27,6 +27,8 @@ I love coding and am passionate about finding simple solutions to complex proble
 ![sql](https://img.shields.io/static/v1?&logo=pandas&message=pandas&label=&style=flat-sqaure&logoColor=fca311)
 ![git](https://img.shields.io/static/v1?&logo=git&message=git&label=&style=flat-sqaure&logoColor=fca311)
 ![aws](https://img.shields.io/static/v1?&logo=amazonaws&message=aws&label=&style=flat-sqaure&logoColor=fca311)
+![docker](https://img.shields.io/static/v1?&logo=docker&message=docker&label=&style=flat-sqaure&logoColor=fca311)
+![kafka](https://img.shields.io/static/v1?&logo=apachekafka&message=kafka&label=&style=flat-sqaure&logoColor=fca311)
 
 ## 🎧 🎹
 <p align='center'>
