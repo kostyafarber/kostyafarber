@@ -15,6 +15,7 @@
     <img align="" alt="Kostya's Spotify" width="30px" src="https://simpleicons.vercel.app/spotify/ffffff"/>
 </a>
 
+<br>
 </p>
 <br>
 
@@ -29,6 +30,9 @@ I love coding and am passionate about finding simple solutions to complex proble
 ![aws](https://img.shields.io/static/v1?&logo=amazonaws&message=aws&label=&style=flat-sqaure&logoColor=fca311)
 ![docker](https://img.shields.io/static/v1?&logo=docker&message=docker&label=&style=flat-sqaure&logoColor=fca311)
 ![kafka](https://img.shields.io/static/v1?&logo=apachekafka&message=kafka&label=&style=flat-sqaure&logoColor=fca311)
+
+
+<img alt='Leetcode Stats' src="https://leetcard.jacoblin.cool/kostyafarber?theme=dark">
 
 ## 🎧 🎹
 <p align='center'>
