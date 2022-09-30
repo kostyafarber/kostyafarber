@@ -20,7 +20,7 @@
 <br>
 
 ## Hey!
-I love coding and am passionate about finding simple solutions to complex problems.
+I love coding and am passionate about finding simple solutions to complex problems. Open-source contributor.
 
 ![stack:](https://img.shields.io/static/v1?&message=stack:&label=&style=flat-sqaure&logoColor=fca311&color=black)
 ![python](https://img.shields.io/static/v1?&logo=python&message=python&label=&style=flat-sqaure&logoColor=fca311)
