@@ -5,14 +5,14 @@
 
 <p align='center'>
 <a href="https://linkedin.com/in/kostyafarber">
-    <img align="" alt="Kostya's LinkedIn" width="30px" src="https://simpleicons.vercel.app/linkedin/ffffff"/>
+    <img align="" alt="Kostya's LinkedIn" src="https://img.shields.io/static/v1?&logo=linkedin&message=linkedin&label=&style=flat-sqaure&logoColor=0761b8"/>
 <a/>&nbsp;&nbsp;
     
 <a href='https://kostya-farber.medium.com/'>
-    <img align="" alt="Kostya's Medium" width="30px" src="https://simpleicons.vercel.app/medium/ffffff"/>&nbsp;&nbsp;
+    <img align="" alt="Kostya's Medium" src="https://img.shields.io/static/v1?&logo=medium&message=medium&label=&style=flat-sqaure&logoColor=black"/>&nbsp;&nbsp;
 </a>
 <a href='https://open.spotify.com/user/kostya_farber'>
-    <img align="" alt="Kostya's Spotify" width="30px" src="https://simpleicons.vercel.app/spotify/ffffff"/>
+    <img align="" alt="Kostya's Spotify" src="https://img.shields.io/static/v1?&logo=spotify&message=spotify&label=&style=flat-sqaure&logoColor=1bcc5b"/>
 </a>
 
 <br>
