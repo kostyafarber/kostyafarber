@@ -33,7 +33,8 @@ I love coding and am passionate about finding simple solutions to complex proble
 ![kafka](https://img.shields.io/static/v1?&logo=apachekafka&message=kafka&label=&style=flat-sqaure&logoColor=000000)
 
 
-<img alt='Leetcode Stats' src="https://leetcard.jacoblin.cool/kostyafarber?theme=dark">
+[![@kostyafarber's Holopin board](https://holopin.me/kostyafarber)](https://holopin.io/@kostyafarber)
+
 
 ## 🎧 🎹
 <p align='center'>
