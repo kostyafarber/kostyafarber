@@ -37,16 +37,10 @@ I love coding and am passionate about finding simple solutions to complex proble
 
 [![@kostyafarber's Holopin board](https://holopin.me/kostyafarber)](https://holopin.io/@kostyafarber)
 
-
-## 🎧 🎹
-<p align='center'>
-    <img src='https://spotify-github-profile.vercel.app/api/view?uid=kostya_farber&cover_image=true&theme=compact'> 
-</p>
-
 ## Contact Me!
    
 ```yml
-                                    website: https://kostyafarber.github.io/
+                                    website: https://kostyafarber.com/
                                     email: kostya.farber@gmail.com 
     
                                             (\                          
