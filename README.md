@@ -5,7 +5,7 @@
 <br>
 
 ## Hey!
-I love coding and finding simple solutions to complex problems. Open-source contributor, playing my part in helping move science and design forward through technology.
+I enjoy finding simple solutions to complex problems. Open-source contributor, playing my part in helping move science and design forward through technology.
 
 ## Contact Me!
    
