@@ -2,10 +2,9 @@
     <img width='800' height='' src='images/airport.gif' style='border-radius: 15%'>
 </p>
 <br>
-<br>
 
 ## Hey!
-I enjoy finding simple solutions to complex problems. Open-source contributor, playing my part in helping move science and design forward through technology.
+I enjoy finding simple solutions to complex problems. Playing my part in helping move science and design forward through technology.
 
 ## Contact Me!
    
